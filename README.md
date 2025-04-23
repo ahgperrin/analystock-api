@@ -1,4 +1,4 @@
-![c0](https://github.com/ahgperrin/analystock-api/blob/main/analystock_banner.jpeg)
+![c0](https://github.com/ahgperrin/analystock-api/blob/master/analystock_banner.jpeg)
 
 # Analystock API Python Client
 
