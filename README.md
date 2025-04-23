@@ -1,3 +1,5 @@
+![c0](https://github.com/ahgperrin/analystock-api/blob/main/analystock_banner.jpeg)
+
 # Analystock API Python Client
 
 Analystock is a comprehensive equity research tool offering a wide range of features to investors and analysts. With
