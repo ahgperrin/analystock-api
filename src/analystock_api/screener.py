@@ -1,4 +1,4 @@
-from src.analystock_api.query_generic import _make_request
+from analystock_api.analystock_api.query_generic import _make_request
 
 def get_screener_view(api_key):
     """Get filtered view of instruments based on internal screener logic."""

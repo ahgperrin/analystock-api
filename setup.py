@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='analystock-ai',
-    version='0.1.5',
+    version='0.1.6',
     author="Antoine Perrin",
     author_email="antoine.perrin@analystock.ai",
     description='Public client API for Analystock.ai REST API',

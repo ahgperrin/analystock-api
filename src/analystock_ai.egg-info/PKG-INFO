@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: analystock-ai
-Version: 0.1.5
+Version: 0.1.6
 Summary: Public client API for Analystock.ai REST API
 Home-page: https://github.com/ahgperrin/analystock-api
 Author: Antoine Perrin
