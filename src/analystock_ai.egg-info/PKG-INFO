@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: analystock-ai
-Version: 0.1.4
+Version: 0.1.5
 Summary: Public client API for Analystock.ai REST API
 Home-page: https://github.com/ahgperrin/analystock-api
 Author: Antoine Perrin
@@ -23,7 +23,7 @@ Description: ![c0](https://github.com/ahgperrin/analystock-api/blob/master/analy
         You can install the package using `pip`:
         
         ```bash
-        pip install analystock-api
+        pip install analystock-ai
         ```
         
         Or alternatively :

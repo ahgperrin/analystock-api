@@ -2,7 +2,6 @@ LICENSE
 MANIFEST.in
 README.md
 setup.py
-dist/analystock_ai-0.1.4-py3-none-any.whl
 src/analystock_ai.egg-info/PKG-INFO
 src/analystock_ai.egg-info/SOURCES.txt
 src/analystock_ai.egg-info/dependency_links.txt
