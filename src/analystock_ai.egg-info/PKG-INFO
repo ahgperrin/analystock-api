@@ -6,7 +6,9 @@ Home-page: https://github.com/ahgperrin/analystock-api
 Author: Antoine Perrin
 Author-email: antoine.perrin@analystock.ai
 License: UNKNOWN
-Description: # Analystock API Python Client
+Description: ![c0](https://github.com/ahgperrin/analystock-api/blob/master/analystock_banner.jpeg)
+        
+        # Analystock API Python Client
         
         Analystock is a comprehensive equity research tool offering a wide range of features to investors and analysts. With
         access to over 5000 stocks, Analystock provides detailed investment insights, including stock screeners, earnings data,

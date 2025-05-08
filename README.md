@@ -15,7 +15,7 @@ commentary, earnings announcements, and more.
 You can install the package using `pip`:
 
 ```bash
-pip install analystock-api
+pip install analystock-ai
 ```
 
 Or alternatively :
